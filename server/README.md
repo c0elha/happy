@@ -1,14 +1,18 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="../web/src/images/logo.svg" />
+    <img alt="Happy" title="Happy" src="../web/src/images/logo-black.svg" />
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-setup">Setup</a>
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#setup">Setup</a>
 </p>
 
 <br>
+
+## 💻 Projeto
+
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
 
 ## 🚀 Tecnologias
 
@@ -16,10 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-
-## 💻 Projeto
-
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
 
 ## :books: Documentação
 Para a execução do projeto é necessário iniciar separadamente
@@ -35,7 +35,6 @@ Para a execução do projeto é necessário iniciar separadamente
 ### Etapas para a execução do projeto server
 
 #### Clonar o repositório e estar dentro da pasta <kbd>server</kbd>
-```
 
 #### Instalar dependências 
 
